@@ -28,5 +28,8 @@ h1 {
 .btn-github:hover {
         color: rgb(255,	255, 255);
         background-color: rgb(34, 37, 41);
-    }
+}
 
+.reset-pass-btn {
+    margin-top: 2rem;
+}
