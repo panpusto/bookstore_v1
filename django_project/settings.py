@@ -157,3 +157,7 @@ ACCOUNT_UNIQUE_EMAIL = True
 # ACCOUNT_EMAIL_VERIFICATION = 'none'
 
 DEFAULT_FROM_EMAIL = 'admin@djangobookstore.com'
+
+# media config
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR / 'media'
